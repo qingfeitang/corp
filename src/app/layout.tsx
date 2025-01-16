@@ -1,5 +1,5 @@
 import type {Metadata} from "next"
-import { Inter, Comforter } from "next/font/google";
+import {  Comforter } from "next/font/google";
 import './globals.css'
 
 const inter = Comforter({
